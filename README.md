@@ -37,10 +37,10 @@ The loyalty program may provide an avenue to maintain some of the value captured
 
 ## Recommendations
 
-### 1. Product Performance
+### Product Performance
 Based on the consumer preference for wireless in-ear headphones, gaming monitors and laptops, DotDash should expand its product catalog to offer similar, in-class products to improve sales performance and brand reach.
 
-### 2. Global Presence
+### Global Presence
 1) Knowing where the vast majority of orders and sales come from, DotDash should concentrate marketing efforts on continuing to penetrate these top markets, in the short-term. DotDash should work to identify 'similar' countries, to its top performers, to create growth opportunities over the longer-term.
 
 2) It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with consumer tendencies of the region to purchase higher-priced "status symbols", efforts to penetrat this market should provide a significant boost in sales.
