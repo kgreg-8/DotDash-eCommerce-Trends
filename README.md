@@ -8,7 +8,8 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 ## Summary of Insights
 
 ### Seasonality 
-DotDash sees a holiday sales surge, each year in November and December. The worst months are February and October. This is common seasonality for companies selling electronics. 
+DotDash sees a holiday sales surge, each year in November (18%) and December (23%). Additionally, we see a bounceback in sales of roughly 18% in March after sales decline in February. The worst months are February and October, which see sales dip by about -27% on average during these months. While DotDash's sales trend follow common seasonality for companies selling electronics, these figures offer insights into consumer behavior. The ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere.
+
 
 <img width="827" alt="Screenshot 2024-02-25 at 10 17 54 AM" src="https://github.com/kgreg-8/DotDash-eCommerce-Trends/assets/148907539/9038b66a-870f-41f9-b778-cf58b7ef12c8">
 
@@ -38,13 +39,12 @@ The loyalty program may provide an avenue to maintain some of the value captured
 ## Recommendations
 
 ### Product Performance
-Based on the consumer preference for wireless in-ear headphones, gaming monitors and laptops, DotDash should expand its product catalog to offer similar, in-class products to improve sales performance and brand reach.
+1) Based on the consumer preference for wireless in-ear headphones, gaming monitors and laptops, DotDash should expand its product catalog to offer similar, in-class products to improve sales performance and brand reach.
 
 ### Global Presence
 1) Knowing where the vast majority of orders and sales come from, DotDash should concentrate marketing efforts on continuing to penetrate these top markets, in the short-term. DotDash should work to identify 'similar' countries, to its top performers, to create growth opportunities over the longer-term.
 
 2) It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with consumer tendencies of the region to purchase higher-priced "status symbols", efforts to penetrat this market should provide a significant boost in sales.
-
 
 ### Loyalty Program
 There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
