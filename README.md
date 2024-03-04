@@ -8,26 +8,28 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 ## Summary of Insights
 
 ### Seasonality 
-DotDash sees a holiday sales surge, each year in November (18%) and December (23%). Additionally, we see a bounceback in sales of roughly 18% in March after sales decline in February. The worst months are February and October, which see sales dip by about -27% on average during these months. While DotDash's sales trend follow common seasonality for companies selling electronics, these figures offer insights into consumer behavior. The ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere.
+DotDash sees a holiday sales surge, each year in November (18%) and December (23%). Additionally, a bounceback in sales of roughly 18% MoM is experienced in March, after sharp declines in sales occur in February. The worst months are February and October, where sales fall around -27% on average during these months. While DotDash's sales trend follows typical seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere.
 
 
 <img width="827" alt="Screenshot 2024-02-25 at 10 17 54 AM" src="https://github.com/kgreg-8/DotDash-eCommerce-Trends/assets/148907539/9038b66a-870f-41f9-b778-cf58b7ef12c8">
 
 
 ### Product Performance
-Apple Airpods are DotDash's most popular product by order count, comprising 45% of all orders. The 27in 4K Gaming Monitor is DotDash's top revenue generating product, bringing in almost $10M (35% of sales). Paired with the Gaming Monitor and Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue.
+Apple Airpods are DotDash's most popular product by order count, comprising 45% of all orders (45K+). The 27in 4K Gaming Monitor is DotDash's top revenue generating product, generating almost $10M (35% of total sales). Paired with the Gaming Monitor and Airpods, the Macbook Air and ThinkPad Laptops generate 96% of revenue. DotDash should prioritize the marketing of these top 4 products (Airpods, Gaming Monitor, Macbook Air & ThinkPad) over the rest of its current catalog to maintain market presence. 
+
+Of importance to note, DotDash sees a significant amount of orders of the Samsung Charging Cable Pack (20%). Even though this product generates 2% of total sales, an opportunity to capture more value by offering a bundle version of this product, with a relevant device, exists. 
 
 <img width="699" alt="Screenshot 2024-02-25 at 10 04 56 AM" src="https://github.com/kgreg-8/DotDash-eCommerce-Trends/assets/148907539/5c8c89b7-9502-4444-b279-22622000248c">
 
 
 ### Global Reach
-DotDash had customers place orders from 191 countries. However, 17 countries generate 85% of total sales. Observe the countries that drive the majority of regional value. Even though the APAC region provides 12% of total sales, it may be worth exploring focusing marketing efforts due to these customers having the highest AOV.
+DotDash had customers place orders from 191 countries. Of these countries, 17 countries drive 85% of total sales (shown below). Maintaining strong presences in these countires should be a top priority, especially as DotDash angles to maintain some of the excess value captured from 2020. Further, it would serve DotDash well to identify similarities between countries because this analysis can be used to identify new market opportunities. Countries in the APAC region appear to be a solid option to start this analysis. On a high level, even though the APAC region provides 12% of total sales, customers in this region have the highest AOV by a significant margin. Thus suggesting experimentation with efforts to increase brand reach within these countries may drive future sales growth. 
 
 ![Screenshot 2024-02-25 at 9 24 47 AM](https://github.com/kgreg-8/DotDash-eCommerce-Trends/assets/148907539/8ca674c1-4072-409d-92e6-358c71071896)
 
 
 ### Loyalty Program
-The loyalty program may provide an avenue to maintain some of the value captured in 2020's boom. Starting in ‘21, sales and order count from loyalty customers exceeded that of non-loyalty customers. This trend continued through ‘22 with the bonus of AOV of loyalty customers also exceeding that of non-loyalty customers.
+The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers. Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with DotDash's customers. 
 
 
 
