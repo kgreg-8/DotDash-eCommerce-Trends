@@ -3,7 +3,7 @@ Founded at the end of 2018, DotDash provides customers around the world with hig
 
 
 ## Overview
-From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Across these 4 years, sales and order count are up 28%. Not to be overlooked is DotDash's meteoric sales boom in 2020 (163%). A signficant portion of this rise can be attributed to the paradigm shift in customer behavior, to order online, observed during the start of the pandemic. However beginning in 2022, the trend in sales, average order value (aov) and order count has taken a sharp dive. Hence, our battle lies in finding ways to maintain the brand reach captured during 2020 and 2021, which, in doing so, should outline our path to longer-term growth.
+From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Across these 4 years, sales and order count are up 28%. Not to be overlooked is DotDash's meteoric sales boom in 2020 (163%). A signficant portion of this rise can be attributed to the paradigm shift in customer behavior, to order online, observed during the start of the pandemic. However beginning in 2022, the trend in sales, average order value (aov) and order count has taken a sharp dive. Hence, the battle lies in finding ways to maintain the brand reach captured during 2020 and 2021, which, in doing so, should outline our path to longer-term growth.
 
 ## Summary of Insights
 
