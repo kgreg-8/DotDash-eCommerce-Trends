@@ -47,12 +47,16 @@ Doing a deeper assessment of the loyalty program to breakdown what consumers are
 ## Recommendations
 
 ### Product Performance
-1) Based on the consumer preference for wireless in-ear headphones, gaming monitors and laptops, DotDash should expand its product catalog to offer similar, in-class products to improve sales performance and brand reach.
+1) 96% of current sales come from products in these categories:
+-- Wireless In-Ear Headphones
+-- High-End Gaming Monitors
+-- Lighterweight Laptop
+DotDash should expand its product catalog to offer similar, in-class products. Doing so *will* improve sales performance and brand reach.
 
 ### Global Presence
-1) Knowing where the vast majority of orders and sales come from, DotDash should concentrate marketing efforts on continuing to penetrate these top markets, in the short-term. DotDash should work to identify 'similar' countries, to its top performers, to create growth opportunities over the longer-term.
+1) Knowing 85% orders and sales come from 17 countires, DotDash should concentrate marketing efforts on maintaining market penetration in these countries in the short-term. To create growth opportunities over the longer term, DotDash should create a project to identify 'similar' countries, to its top performers.
 
-2) It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with consumer tendencies of the region to purchase higher-priced "status symbols", efforts to penetrat this market should provide a significant boost in sales.
+2) It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
 
 ### Loyalty Program
 There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
