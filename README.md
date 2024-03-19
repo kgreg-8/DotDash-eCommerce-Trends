@@ -51,9 +51,9 @@ Doing a deeper assessment of the loyalty program to breakdown what consumers are
 
 ### Product Performance
 1) 96% of current sales come from products in these categories:
--- Wireless In-Ear Headphones
--- High-End Gaming Monitors
--- Lighterweight Laptop
+>- Wireless In-Ear Headphones
+>- High-End Gaming Monitors
+>- Lighterweight Laptops
 DotDash should expand its product catalog to offer similar, in-class products. Doing so *will* improve sales performance and brand reach.
 
 ### Global Presence
