@@ -8,7 +8,7 @@ From 2019 - 2022 over 108K orders were placed, generating $28.1M in sales. Acros
 ## Summary of Insights
 
 ### Seasonality 
-DotDash sees a holiday sales surge, each year in November (18%) and December (23%). Additionally, a bounceback in sales of roughly 18% MoM is experienced in March, after sharp declines in sales occur in February. The worst months are February and October, where sales fall around -27% on average during these months. While DotDash's sales trend follows typical seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere.
+DotDash sees a holiday sales surge, each year in November (18%) and December (23%). Additionally, a bounceback in sales of roughly 18% MoM is experienced in March, after sharp declines in sales occur in February. The worst months are February and October, where sales fall around -27% on average during these months. While DotDash's sales trend follows common seasonality for companies selling electronics, these figures offer insights into consumer behavior. For example, the ‘best’ deals in consumers' eyes start to run through the holiday season so customers in October may be waiting for ‘deal season’ to start in November or are finding deals elsewhere.
 
 
 <img width="827" alt="Screenshot 2024-02-25 at 10 17 54 AM" src="https://github.com/kgreg-8/DotDash-eCommerce-Trends/assets/148907539/9038b66a-870f-41f9-b778-cf58b7ef12c8">
