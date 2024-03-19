@@ -57,14 +57,15 @@ Doing a deeper assessment of the loyalty program to breakdown what consumers are
 DotDash should expand its product catalog to offer similar, in-class products. Doing so *will* improve sales performance and brand reach.
 
 ### Global Presence
-1) Knowing 85% orders and sales come from 17 countires, DotDash should concentrate marketing efforts on maintaining market penetration in these countries in the short-term. To create growth opportunities over the longer term, DotDash should create a project to identify 'similar' countries, to its top performers.
+1) Knowing 85% orders and sales come from 17 countries, DotDash should concentrate marketing efforts on maintaining market penetration in these countries in the short-term. To create growth opportunities over the longer term, DotDash should create a project to identify 'similar' countries, to its top performers.
 
 2) It is also in DotDash's best interest to prioritize experimenting in the APAC region. Even though this region accounts for 12% of sales, it has the highest AOV. Pairing that with an understanding that consumer tendencies in this region are to purchase higher-priced "status symbols", efforts to penetrate this market should provide a significant boost in sales.
 
 ### Loyalty Program
 There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
 - From Sep through Dec ‘22, non-loyalty customer sales, aov and order count has surpassed the metrics of loyalty customers. This is the first time since Dec ‘20 order count of non-loyalty customers has exceeded that of loyalty customers.
--- Until these most recent micro trends, there has been evidence to support the loyalty program as a key way to maintaining captured value, given DotDash's overall sales have been declining since ‘20 (add a part about AOV).
+
+>- Until these most recent micro trends, there has been evidence to support the loyalty program as a key way to maintaining captured value, given DotDash's overall sales have been declining since ‘20.
 
 Due to this concerning recent trend in the loyalty program, DotDash should cut affiliate channel marketing efforts and focus efforts on reaching customers through the direct and email channels. These channels have led to the most signups and have a significant signup rate:
 - Direct Marketing Channel: 40% signup rate | 23.5K signups
