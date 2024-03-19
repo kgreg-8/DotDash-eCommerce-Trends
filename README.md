@@ -29,7 +29,13 @@ DotDash had customers place orders from 191 countries. Of these countries, 17 co
 
 
 ### Loyalty Program
-The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers. Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with DotDash's customers. 
+The loyalty program seems to serve as another viable avenue to maintain some of the value captured in 2020's boom. After it's rollout in 2019, significant customer adoption did not occur until the beginning of 2021. Sales and order count from loyalty customers exceeded that of non-loyalty customers in 2021. This trend has continued through 2022 with the AOV of loyalty customers now also exceeding that of non-loyalty customers. 
+
+Looking into our marketing efforts and how it translates to loyalty program signups:
+- The direct marketing channel has the highest number of loyalty participants: 23.5K signups (40% signup rate)
+- The email marketing channel has the highest average signup rate: 59% signup rate (~8K signups)
+
+Doing a deeper assessment of the loyalty program to breakdown what consumers are using or seeming to enjoy the most will provide clarity on ways to grow this program in a manner aligned with DotDash's customers. 
 
 
 
@@ -52,6 +58,10 @@ The loyalty program seems to serve as another viable avenue to maintain some of 
 There is a cause for concern that should be noted and monitored for a set amount of time before decisions to continue or cut the program are made.
 - From Sep through Dec ‘22, non-loyalty customer sales, aov and order count has surpassed the metrics of loyalty customers. This is the first time since Dec ‘20 order count of non-loyalty customers has exceeded that of loyalty customers.
 -- Until these most recent micro trends, there has been evidence to support the loyalty program as a key way to maintaining captured value, given DotDash's overall sales have been declining since ‘20 (add a part about AOV).
+
+Due to this concerning recent trend in the loyalty program, DotDash should cut affiliate channel marketing efforts and focus efforts on reaching customers through the direct and email channels. These channels have led to the most signups and have a significant signup rate:
+- Direct Marketing Channel: 40% signup rate | 23.5K signups
+- Email Marketing Channel: 59% signup rate | 8K signups
 
 
 
